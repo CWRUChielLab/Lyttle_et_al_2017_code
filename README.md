@@ -6,6 +6,8 @@ Lyttle DN, Gill JP, Shaw KM, Thomas PJ, Chiel HJ. (2017). Robustness, flexibilit
 
 ## Changes
 
+2017-03-01: Updated citation details.
+
 2016-12-26: Added DOI to citation.
 
 2016-12-11: Code repository created as a placeholder ahead of publication.
