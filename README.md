@@ -2,7 +2,7 @@
 
 This repository contains the code used to generate the figures for the following paper:
 
-Lyttle DN, Gill JP, Shaw KM, Thomas PJ, Chiel HJ. (first online 21 Dec 2016). Robustness, flexibility, and sensitivity in a multifunctional motor control model. *Biological Cybernetics*. https://doi.org/10.1007/s00422-016-0704-8
+Lyttle DN, Gill JP, Shaw KM, Thomas PJ, Chiel HJ. (2017). Robustness, flexibility, and sensitivity in a multifunctional motor control model. *Biological Cybernetics*, 111:25–47. https://doi.org/10.1007/s00422-016-0704-8
 
 ## Changes
 
